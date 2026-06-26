@@ -24,5 +24,8 @@ Welcome to my first GitHub project repository.
 * Learn GitHub workflows
 * Build AI-powered applications
 * Explore modern computer vision techniques
+* ## Learning Post
+* Read my learning post here:
+* https://medium.com/@toobaanwarbutt90/my-first-steps-into-3d-machine-learning-with-preservemy-world-088371064dd6
 ⭐ Thanks for visiting!
 
